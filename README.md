@@ -1,7 +1,7 @@
 # Prueba_DAW
 Es la primera vez que vamos a usar GitHub
 
-#MI PROYECTO PRUEBA
+# MI PROYECTO PRUEBA
 
 Aquí vamos a tener todo lo necesario para nuestro primer <Hola Mundo>
   
